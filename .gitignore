@@ -1,0 +1,17 @@
+vendor
+.DS_Store/
+.vscode/
+.idea/
+logs/
+*.json
+*.xlsx
+*.toml
+*.bz2
+*.zip
+dist/
+log/
+commit_file.txt
+WEB/
+.DS_Store
+*.mod
+*.sum
